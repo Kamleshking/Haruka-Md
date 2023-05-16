@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["924402725227@s.whatsapp.net","923402725227@s.whatsapp.net"],
+    "ownerName": "KAMLESHKING",
+    "instagram" : "KAMLESHKING",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "KAMLESHKINGBOT",
+    "footer": "2023 © KAMLESHKING",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
